@@ -1,0 +1,13 @@
+.profile-page {
+  border: 5px;
+}
+
+.profile-header {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: large;
+}
+
+.profile-buttons {
+  position: fixed;
+  background-color: aquamarine;
+}
